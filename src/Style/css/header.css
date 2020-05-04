@@ -1,0 +1,17 @@
+.profile-container span {
+    font-size: 20px;
+    margin-left: auto;
+}
+
+.profile-container button {
+margin-left: 10%;
+height: 60px;
+width: 60px;
+border-radius: 4px;
+border: 2px solid #696969;
+transition: border-color 0.2s;
+}
+
+.profile-container button:hover {
+    border-color: #999;
+    }
